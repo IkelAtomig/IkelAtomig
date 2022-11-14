@@ -1,0 +1,7 @@
+- 👋 Hi, I’m [@IkelAtomig](https://github.com/IkelAtomig)
+- 👀 I’m interested in creating Webpages
+- 🌱 I’m currently learning HTML and CSS in FreeCodeCamp in my Free time.
+- 📫 You can reach me via the Following ways :  
+    - [Matrix](https://matrix.to/#/@Ikelatomig:envs.net) 
+    - Email : Listed in sidebar [ I prefer being contacted via my [GPG Key] (GPG keypair not created will be made into here or available in Mailvelope Key server) ]
+- I always sign my Commits in Github with SSH.
