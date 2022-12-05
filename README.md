@@ -1,7 +1,8 @@
 - 👋 Hi, I’m [@IkelAtomig](https://github.com/IkelAtomig)
 - 👀 I’m interested in creating Webpages
-- 🌱 I’m currently learning HTML and CSS in FreeCodeCamp and other mediums in my Free time.
+- 🌱 I’m currently learning Physical Science and Computer science in my Free time.
 - 📫 You can reach me via the Following ways :  
     - [Matrix](https://matrix.to/#/@Ikelatomig:envs.net) 
-    - Email : Listed in sidebar [ I prefer being contacted with PGP Encryption (Public key available in Mailvelope Key server) ]
+    - Email : Listed in sidebar [ I prefer being contacted with PGP Encryption, Public key available in Mailvelope Key server]
+- My <a rel="me" href="https://mstdn.starnix.network/@Ikel">Mastodon</a> Profile.
 - I always sign my Commits in Github with SSH.
