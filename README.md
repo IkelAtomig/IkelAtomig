@@ -4,5 +4,4 @@
 - 📫 You can reach me via the Following ways :  
     - [Matrix](https://matrix.to/#/@Ikelatomig:envs.net) 
     - Email : Listed in sidebar [ I prefer being contacted with PGP Encryption, Public key available in Mailvelope Key server]
-- My <a rel="me" href="https://mstdn.starnix.network/@Ikel">Mastodon</a> Profile.
 - I always sign my Commits in Github with SSH.
