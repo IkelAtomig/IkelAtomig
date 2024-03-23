@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@IkelAtomig](https://github.com/IkelAtomig)
-- 👀 I’m interested in Linux and Stable technologies than rapid news.
+- 👀 I’m interested in Linux and Stable technologies than rapid new ones.
 - 🌱 I’m currently learning Physical Science and Computer science in my Free time.
 - 📫 You can reach me via the Following ways :  
     - [Matrix](https://matrix.to/#/@Ikelatomig:envs.net) 
